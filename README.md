@@ -69,4 +69,5 @@ Let's build something amazing together! 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk190304&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk190304&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk190304&theme=dark&date-buster=20250227)
+
