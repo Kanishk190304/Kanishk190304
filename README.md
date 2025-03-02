@@ -2,9 +2,9 @@
 
 ## 📖 About Me
 
-- 🔮 I'm a quiet, diligent soul walking the path of discipline, spirituality, and inner peace with a passion for technology.
-- 🌱 I’m actively exploring advanced front-end frameworks and modern design patterns to build more scalable and responsive web applications.
-- 📈 I aspire to contribute to impactful open-source projects, continuously refine my problem-solving skills, and eventually transition into a full-stack role.
+- 🔮 A quiet, diligent soul walking the path of discipline, spirituality, and inner peace with a passion for technology.
+- 🌱 Actively exploring advanced front-end frameworks and modern design patterns to build more scalable and responsive web applications.
+- 📈 Aspire to contribute to impactful open-source projects, continuously refine my problem-solving skills, and eventually transition into a full-stack role.
 
 Let's build something amazing together! 🚀
 
